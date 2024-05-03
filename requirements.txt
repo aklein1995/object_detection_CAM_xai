@@ -1,0 +1,4 @@
+grad-cam
+requests
+pandas
+opencv-python
